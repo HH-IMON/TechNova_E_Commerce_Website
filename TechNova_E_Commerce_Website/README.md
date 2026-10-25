@@ -244,8 +244,8 @@ This project is created for **educational purposes**. You are free to use, modif
 
 ## 👨‍💻 Author
 
-**Md. Methun Hossain**
-📧 methun.khan01@gmail.com
+**Md Imon Ahmed**
+📧 imon.ahmed11111@gmail.com
 
 🎓 Green University of Bangladesh
 💻 Computer Science & Engineering
